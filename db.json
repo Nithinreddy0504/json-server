@@ -1,0 +1,645 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "Men Product 1",
+      "price": 11.5,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.0AsZLpPRuj5Yij3VMO1i8QHaIS&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 1."
+    },
+    {
+      "id": 2,
+      "name": "Men Product 2",
+      "price": 13.0,
+      "category": "men",
+      "image": "https://images.lee.com/is/image/Lee/2013667-HERO?$KDP-XXLARGE$",
+      "description": "High-quality men item number 2."
+    },
+    {
+      "id": 3,
+      "name": "Men Product 3",
+      "price": 14.5,
+      "category": "men",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.lEAwllnzn6gK5o5LcaGCHgHaGq&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 3."
+    },
+    {
+      "id": 4,
+      "name": "Men Product 4",
+      "price": 16.0,
+      "category": "men",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.X6qnb1WbtSfTq-NYxQOszwHaLG&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 4."
+    },
+    {
+      "id": 5,
+      "name": "Men Product 5",
+      "price": 17.5,
+      "category": "men",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.MMUXvegjX_7LMdIMoTkkhQHaGq&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 5."
+    },
+    {
+      "id": 6,
+      "name": "Men Product 6",
+      "price": 19.0,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.syWRTShn2uZrrTLWceRfSQHaGq&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 6."
+    },
+    {
+      "id": 7,
+      "name": "Men Product 7",
+      "price": 20.5,
+      "category": "men",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.X9rCqHIihzI_htQNNHHSHQHaJC&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 7."
+    },
+    {
+      "id": 8,
+      "name": "Men Product 8",
+      "price": 22.0,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.dFCQw1uM0A6lqd0DSpODhgHaJo&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 8."
+    },
+    {
+      "id": 9,
+      "name": "Men Product 9",
+      "price": 23.5,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.dFCQw1uM0A6lqd0DSpODhgHaJo&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 9."
+    },
+    {
+      "id": 10,
+      "name": "Men Product 10",
+      "price": 25.0,
+      "category": "men",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.WJULq8FV2c1-wRA70GSGNwHaLH&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 10."
+    },
+    {
+      "id": 11,
+      "name": "Men Product 11",
+      "price": 26.5,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIF.Jl2J2Zem7a4dIzQ62jPe7w&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 11."
+    },
+    {
+      "id": 12,
+      "name": "Men Product 12",
+      "price": 28.0,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.ssa9Y1AaABvKpYUIAvdw9gHaHa&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 12."
+    },
+    {
+      "id": 13,
+      "name": "Men Product 13",
+      "price": 29.5,
+      "category": "men",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0t5_z6Ie6Z1Lk_eDahq6XgHaLH&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 13."
+    },
+    {
+      "id": 14,
+      "name": "Men Product 14",
+      "price": 31.0,
+      "category": "men",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.gFCcyHuO_G-YBsIdTyPwygHaID&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 14."
+    },
+    {
+      "id": 15,
+      "name": "Men Product 15",
+      "price": 32.5,
+      "category": "men",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.dDh3E7PCpYPQVU-BW7c_7gHaHa&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 15."
+    },
+    {
+      "id": 16,
+      "name": "Men Product 16",
+      "price": 34.0,
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.mrqqzCVP-gbHGp2IpseQMgHaLG&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 16."
+    },
+    {
+      "id": 17,
+      "name": "Men Product 17",
+      "price": 35.5,
+      "category": "men",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.B29Ncj8H6FXfklbAgQJXvgHaJQ&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 17."
+    },
+    {
+      "id": 18,
+      "name": "Men Product 18",
+      "price": 37.0,
+      "category": "men",
+      "image": "https://tse3.mm.bing.net/th?id=OIP._1LemnEi2HMA4rcJ0w0hwwAAAA&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 18."
+    },
+    {
+      "id": 19,
+      "name": "Men Product 19",
+      "price": 38.5,
+      "category": "men",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.dDh3E7PCpYPQVU-BW7c_7gHaHa&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 19."
+    },
+    {
+      "id": 20,
+      "name": "Men Product 20",
+      "price": 40.0,
+      "category": "men",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.-HMAKzrKKc0C97Hpy134LQHaGq&pid=Api&P=0&h=180",
+      "description": "High-quality men item number 20."
+    },
+    {
+      "id": 21,
+      "name": "Women Product 1",
+      "price": 11.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,1",
+      "description": "High-quality women item number 1."
+    },
+    {
+      "id": 22,
+      "name": "Women Product 2",
+      "price": 13.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,2",
+      "description": "High-quality women item number 2."
+    },
+    {
+      "id": 23,
+      "name": "Women Product 3",
+      "price": 14.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,3",
+      "description": "High-quality women item number 3."
+    },
+    {
+      "id": 24,
+      "name": "Women Product 4",
+      "price": 16.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,4",
+      "description": "High-quality women item number 4."
+    },
+    {
+      "id": 25,
+      "name": "Women Product 5",
+      "price": 17.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,5",
+      "description": "High-quality women item number 5."
+    },
+    {
+      "id": 26,
+      "name": "Women Product 6",
+      "price": 19.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,6",
+      "description": "High-quality women item number 6."
+    },
+    {
+      "id": 27,
+      "name": "Women Product 7",
+      "price": 20.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,7",
+      "description": "High-quality women item number 7."
+    },
+    {
+      "id": 28,
+      "name": "Women Product 8",
+      "price": 22.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,8",
+      "description": "High-quality women item number 8."
+    },
+    {
+      "id": 29,
+      "name": "Women Product 9",
+      "price": 23.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,9",
+      "description": "High-quality women item number 9."
+    },
+    {
+      "id": 30,
+      "name": "Women Product 10",
+      "price": 25.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,10",
+      "description": "High-quality women item number 10."
+    },
+    {
+      "id": 31,
+      "name": "Women Product 11",
+      "price": 26.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,11",
+      "description": "High-quality women item number 11."
+    },
+    {
+      "id": 32,
+      "name": "Women Product 12",
+      "price": 28.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,12",
+      "description": "High-quality women item number 12."
+    },
+    {
+      "id": 33,
+      "name": "Women Product 13",
+      "price": 29.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,13",
+      "description": "High-quality women item number 13."
+    },
+    {
+      "id": 34,
+      "name": "Women Product 14",
+      "price": 31.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,14",
+      "description": "High-quality women item number 14."
+    },
+    {
+      "id": 35,
+      "name": "Women Product 15",
+      "price": 32.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,15",
+      "description": "High-quality women item number 15."
+    },
+    {
+      "id": 36,
+      "name": "Women Product 16",
+      "price": 34.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,16",
+      "description": "High-quality women item number 16."
+    },
+    {
+      "id": 37,
+      "name": "Women Product 17",
+      "price": 35.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,17",
+      "description": "High-quality women item number 17."
+    },
+    {
+      "id": 38,
+      "name": "Women Product 18",
+      "price": 37.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,18",
+      "description": "High-quality women item number 18."
+    },
+    {
+      "id": 39,
+      "name": "Women Product 19",
+      "price": 38.5,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,19",
+      "description": "High-quality women item number 19."
+    },
+    {
+      "id": 40,
+      "name": "Women Product 20",
+      "price": 40.0,
+      "category": "women",
+      "image": "https://source.unsplash.com/300x300/?women,clothing,fashion,20",
+      "description": "High-quality women item number 20."
+    },
+    {
+      "id": 41,
+      "name": "Kids Product 1",
+      "price": 11.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,1",
+      "description": "High-quality kids item number 1."
+    },
+    {
+      "id": 42,
+      "name": "Kids Product 2",
+      "price": 13.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,2",
+      "description": "High-quality kids item number 2."
+    },
+    {
+      "id": 43,
+      "name": "Kids Product 3",
+      "price": 14.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,3",
+      "description": "High-quality kids item number 3."
+    },
+    {
+      "id": 44,
+      "name": "Kids Product 4",
+      "price": 16.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,4",
+      "description": "High-quality kids item number 4."
+    },
+    {
+      "id": 45,
+      "name": "Kids Product 5",
+      "price": 17.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,5",
+      "description": "High-quality kids item number 5."
+    },
+    {
+      "id": 46,
+      "name": "Kids Product 6",
+      "price": 19.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,6",
+      "description": "High-quality kids item number 6."
+    },
+    {
+      "id": 47,
+      "name": "Kids Product 7",
+      "price": 20.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,7",
+      "description": "High-quality kids item number 7."
+    },
+    {
+      "id": 48,
+      "name": "Kids Product 8",
+      "price": 22.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,8",
+      "description": "High-quality kids item number 8."
+    },
+    {
+      "id": 49,
+      "name": "Kids Product 9",
+      "price": 23.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,9",
+      "description": "High-quality kids item number 9."
+    },
+    {
+      "id": 50,
+      "name": "Kids Product 10",
+      "price": 25.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,10",
+      "description": "High-quality kids item number 10."
+    },
+    {
+      "id": 51,
+      "name": "Kids Product 11",
+      "price": 26.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,11",
+      "description": "High-quality kids item number 11."
+    },
+    {
+      "id": 52,
+      "name": "Kids Product 12",
+      "price": 28.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,12",
+      "description": "High-quality kids item number 12."
+    },
+    {
+      "id": 53,
+      "name": "Kids Product 13",
+      "price": 29.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,13",
+      "description": "High-quality kids item number 13."
+    },
+    {
+      "id": 54,
+      "name": "Kids Product 14",
+      "price": 31.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,14",
+      "description": "High-quality kids item number 14."
+    },
+    {
+      "id": 55,
+      "name": "Kids Product 15",
+      "price": 32.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,15",
+      "description": "High-quality kids item number 15."
+    },
+    {
+      "id": 56,
+      "name": "Kids Product 16",
+      "price": 34.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,16",
+      "description": "High-quality kids item number 16."
+    },
+    {
+      "id": 57,
+      "name": "Kids Product 17",
+      "price": 35.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,17",
+      "description": "High-quality kids item number 17."
+    },
+    {
+      "id": 58,
+      "name": "Kids Product 18",
+      "price": 37.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,18",
+      "description": "High-quality kids item number 18."
+    },
+    {
+      "id": 59,
+      "name": "Kids Product 19",
+      "price": 38.5,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,19",
+      "description": "High-quality kids item number 19."
+    },
+    {
+      "id": 60,
+      "name": "Kids Product 20",
+      "price": 40.0,
+      "category": "kids",
+      "image": "https://source.unsplash.com/300x300/?kids,clothing,fashion,20",
+      "description": "High-quality kids item number 20."
+    },
+    {
+      "id": 61,
+      "name": "Accessories Product 1",
+      "price": 11.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,1",
+      "description": "High-quality accessories item number 1."
+    },
+    {
+      "id": 62,
+      "name": "Accessories Product 2",
+      "price": 13.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,2",
+      "description": "High-quality accessories item number 2."
+    },
+    {
+      "id": 63,
+      "name": "Accessories Product 3",
+      "price": 14.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,3",
+      "description": "High-quality accessories item number 3."
+    },
+    {
+      "id": 64,
+      "name": "Accessories Product 4",
+      "price": 16.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,4",
+      "description": "High-quality accessories item number 4."
+    },
+    {
+      "id": 65,
+      "name": "Accessories Product 5",
+      "price": 17.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,5",
+      "description": "High-quality accessories item number 5."
+    },
+    {
+      "id": 66,
+      "name": "Accessories Product 6",
+      "price": 19.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,6",
+      "description": "High-quality accessories item number 6."
+    },
+    {
+      "id": 67,
+      "name": "Accessories Product 7",
+      "price": 20.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,7",
+      "description": "High-quality accessories item number 7."
+    },
+    {
+      "id": 68,
+      "name": "Accessories Product 8",
+      "price": 22.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,8",
+      "description": "High-quality accessories item number 8."
+    },
+    {
+      "id": 69,
+      "name": "Accessories Product 9",
+      "price": 23.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,9",
+      "description": "High-quality accessories item number 9."
+    },
+    {
+      "id": 70,
+      "name": "Accessories Product 10",
+      "price": 25.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,10",
+      "description": "High-quality accessories item number 10."
+    },
+    {
+      "id": 71,
+      "name": "Accessories Product 11",
+      "price": 26.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,11",
+      "description": "High-quality accessories item number 11."
+    },
+    {
+      "id": 72,
+      "name": "Accessories Product 12",
+      "price": 28.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,12",
+      "description": "High-quality accessories item number 12."
+    },
+    {
+      "id": 73,
+      "name": "Accessories Product 13",
+      "price": 29.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,13",
+      "description": "High-quality accessories item number 13."
+    },
+    {
+      "id": 74,
+      "name": "Accessories Product 14",
+      "price": 31.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,14",
+      "description": "High-quality accessories item number 14."
+    },
+    {
+      "id": 75,
+      "name": "Accessories Product 15",
+      "price": 32.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,15",
+      "description": "High-quality accessories item number 15."
+    },
+    {
+      "id": 76,
+      "name": "Accessories Product 16",
+      "price": 34.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,16",
+      "description": "High-quality accessories item number 16."
+    },
+    {
+      "id": 77,
+      "name": "Accessories Product 17",
+      "price": 35.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,17",
+      "description": "High-quality accessories item number 17."
+    },
+    {
+      "id": 78,
+      "name": "Accessories Product 18",
+      "price": 37.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,18",
+      "description": "High-quality accessories item number 18."
+    },
+    {
+      "id": 79,
+      "name": "Accessories Product 19",
+      "price": 38.5,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,19",
+      "description": "High-quality accessories item number 19."
+    },
+    {
+      "id": 80,
+      "name": "Accessories Product 20",
+      "price": 40.0,
+      "category": "accessories",
+      "image": "https://source.unsplash.com/300x300/?accessories,fashion,20",
+      "description": "High-quality accessories item number 20."
+    }
+  ]
+}
+
