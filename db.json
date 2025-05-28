@@ -5,7 +5,7 @@
       "name": "Men Product 1",
       "price": 11.5,
       "category": "men",
-      "image": "file:///C:/Users/NITHIN/OneDrive/Desktop/Javascript%20Project/images/menimage1.webp",
+      "image": "https://www.designscene.net/wp-content/uploads/2013/04/HM-Menswear-Fall-Winter-2013-01.jpg",
       "description": "High-quality men item number 1."
     },
     {
@@ -13,7 +13,7 @@
       "name": "Men Product 2",
       "price": 13.0,
       "category": "men",
-      "image": "men1.jpg",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.JPO5egDyzU7ZV7LJJpW3DAHaJQ&pid=Api&P=0&h=180",
       "description": "High-quality men item number 2."
     },
     {
@@ -21,7 +21,7 @@
       "name": "Men Product 3",
       "price": 14.5,
       "category": "men",
-      "image": "https://stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com/1b5a0e03f93c812678a684b05090e19562dbe848699daea098a413031ea03399.jpg?response-content-disposition=attachment%3B%20filename%3D%22AdobeStock_546738616_Preview.jpeg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUMGGMQGEW54NEAVB%2F20250528%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20250528T070438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=97722d250b5ece9197da2798d42a9d0d47f115f0192b5700dcf508cf57b97686",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.SwnZB826AxU7qAl19nCxbgHaKe&pid=Api&P=0&h=180",
       "description": "High-quality men item number 3."
     },
     {
@@ -29,7 +29,7 @@
       "name": "Men Product 4",
       "price": 16.0,
       "category": "men",
-      "image": "https://tse4.mm.bing.net/th?id=OIP.X6qnb1WbtSfTq-NYxQOszwHaLG&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.dnuHqB9epRJINs5XIyLEDAHaKe&pid=Api&P=0&h=180",
       "description": "High-quality men item number 4."
     },
     {
@@ -37,7 +37,7 @@
       "name": "Men Product 5",
       "price": 17.5,
       "category": "men",
-      "image": "https://tse4.mm.bing.net/th?id=OIP.MMUXvegjX_7LMdIMoTkkhQHaGq&pid=Api&P=0&h=180",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.WmXcvW80b_1sJpcNFIPFRAHaKe&pid=Api&P=0&h=180",
       "description": "High-quality men item number 5."
     },
     {
@@ -45,7 +45,7 @@
       "name": "Men Product 6",
       "price": 19.0,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.syWRTShn2uZrrTLWceRfSQHaGq&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.T0GgNnk3bKBeCvEehek7BwHaIq&pid=Api&P=0&h=180",
       "description": "High-quality men item number 6."
     },
     {
@@ -53,7 +53,7 @@
       "name": "Men Product 7",
       "price": 20.5,
       "category": "men",
-      "image": "https://tse3.mm.bing.net/th?id=OIP.X9rCqHIihzI_htQNNHHSHQHaJC&pid=Api&P=0&h=180",
+      "image": "https://i.pinimg.com/736x/7a/58/de/7a58de15f7842f14dbfffd0a3ded272e.jpg",
       "description": "High-quality men item number 7."
     },
     {
@@ -61,7 +61,7 @@
       "name": "Men Product 8",
       "price": 22.0,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.dFCQw1uM0A6lqd0DSpODhgHaJo&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.SOuTKrimJxpqYH3xanW0wgHaLH&pid=Api&P=0&h=180",
       "description": "High-quality men item number 8."
     },
     {
@@ -69,7 +69,7 @@
       "name": "Men Product 9",
       "price": 23.5,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.dFCQw1uM0A6lqd0DSpODhgHaJo&pid=Api&P=0&h=180",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.OIPDoVKc3NNl9OJnDk6ZGwHaDt&pid=Api&P=0&h=180",
       "description": "High-quality men item number 9."
     },
     {
@@ -77,7 +77,7 @@
       "name": "Men Product 10",
       "price": 25.0,
       "category": "men",
-      "image": "https://tse3.mm.bing.net/th?id=OIP.WJULq8FV2c1-wRA70GSGNwHaLH&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.VCb_PknnAiEYoO-HV1FfOgHaLH&pid=Api&P=0&h=180",
       "description": "High-quality men item number 10."
     },
     {
@@ -85,7 +85,7 @@
       "name": "Men Product 11",
       "price": 26.5,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIF.Jl2J2Zem7a4dIzQ62jPe7w&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.1B4BGBRx1yj6EtYISAlx2wHaJQ&pid=Api&P=0&h=180",
       "description": "High-quality men item number 11."
     },
     {
@@ -93,7 +93,7 @@
       "name": "Men Product 12",
       "price": 28.0,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.ssa9Y1AaABvKpYUIAvdw9gHaHa&pid=Api&P=0&h=180",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Vr-Ip_W8hUJsLIWp5hQ3XgHaLH&pid=Api&P=0&h=180",
       "description": "High-quality men item number 12."
     },
     {
@@ -101,7 +101,7 @@
       "name": "Men Product 13",
       "price": 29.5,
       "category": "men",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.0t5_z6Ie6Z1Lk_eDahq6XgHaLH&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.4C0YnsZJhCnv5XZHCwDy1QHaKF&pid=Api&P=0&h=180",
       "description": "High-quality men item number 13."
     },
     {
@@ -109,7 +109,7 @@
       "name": "Men Product 14",
       "price": 31.0,
       "category": "men",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.gFCcyHuO_G-YBsIdTyPwygHaID&pid=Api&P=0&h=180",
+      "image": "https://tse4.mm.bing.net/th?id=OIF.l%2beE8xRnx%2fMZPeL46OURlw&pid=Api&P=0&h=180",
       "description": "High-quality men item number 14."
     },
     {
@@ -117,7 +117,7 @@
       "name": "Men Product 15",
       "price": 32.5,
       "category": "men",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.dDh3E7PCpYPQVU-BW7c_7gHaHa&pid=Api&P=0&h=180",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.iroGpiJfoDfCSHGhb04dfgHaHa&pid=Api&P=0&h=180",
       "description": "High-quality men item number 15."
     },
     {
@@ -125,7 +125,7 @@
       "name": "Men Product 16",
       "price": 34.0,
       "category": "men",
-      "image": "https://tse2.mm.bing.net/th?id=OIP.mrqqzCVP-gbHGp2IpseQMgHaLG&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.djVdNnHhPNe8Q5hxegiZ2wHaKe&pid=Api&P=0&h=180",
       "description": "High-quality men item number 16."
     },
     {
@@ -133,7 +133,7 @@
       "name": "Men Product 17",
       "price": 35.5,
       "category": "men",
-      "image": "https://tse4.mm.bing.net/th?id=OIP.B29Ncj8H6FXfklbAgQJXvgHaJQ&pid=Api&P=0&h=180",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0x6x48sN-QWHxxdBP2JjTwHaLH&pid=Api&P=0&h=180",
       "description": "High-quality men item number 17."
     },
     {
@@ -141,7 +141,7 @@
       "name": "Men Product 18",
       "price": 37.0,
       "category": "men",
-      "image": "https://tse3.mm.bing.net/th?id=OIP._1LemnEi2HMA4rcJ0w0hwwAAAA&pid=Api&P=0&h=180",
+      "image": "https://tse3.mm.bing.net/th?id=OIF.vXVROcKkqdEY0e6K6lNNFw&pid=Api&P=0&h=180",
       "description": "High-quality men item number 18."
     },
     {
@@ -149,7 +149,7 @@
       "name": "Men Product 19",
       "price": 38.5,
       "category": "men",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.dDh3E7PCpYPQVU-BW7c_7gHaHa&pid=Api&P=0&h=180",
+      "image": "https://tse4.mm.bing.net/th?id=OIF.kmbBz4dyPC%2fmzjs0yHkNUg&pid=Api&P=0&h=180",
       "description": "High-quality men item number 19."
     },
     {
@@ -157,7 +157,7 @@
       "name": "Men Product 20",
       "price": 40.0,
       "category": "men",
-      "image": "https://tse4.mm.bing.net/th?id=OIP.-HMAKzrKKc0C97Hpy134LQHaGq&pid=Api&P=0&h=180",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.arolUu5xwc_IIoBjX5GRJAHaLH&pid=Api&P=0&h=180",
       "description": "High-quality men item number 20."
     },
     {
