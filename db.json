@@ -21,7 +21,7 @@
       "name": "Men Product 3",
       "price": 14.5,
       "category": "men",
-      "image": "https://tse1.mm.bing.net/th?id=OIP.lEAwllnzn6gK5o5LcaGCHgHaGq&pid=Api&P=0&h=180",
+      "image": "https://stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com/1b5a0e03f93c812678a684b05090e19562dbe848699daea098a413031ea03399.jpg?response-content-disposition=attachment%3B%20filename%3D%22AdobeStock_546738616_Preview.jpeg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUMGGMQGEW54NEAVB%2F20250528%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20250528T070438Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=97722d250b5ece9197da2798d42a9d0d47f115f0192b5700dcf508cf57b97686",
       "description": "High-quality men item number 3."
     },
     {
